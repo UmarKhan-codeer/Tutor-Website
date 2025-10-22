@@ -65,7 +65,7 @@ Tutor-Website/
 3. Import your repo: **Tutor-Website**
 4. Keep default settings and click **Deploy**
 5. Done 🎉 Your live site will be available at:  
-   👉 https://tutor-website.vercel.app/
+   👉 https://tutor-website-five-zeta.vercel.app/
 
 ---
 
