@@ -7,8 +7,7 @@ Built using **HTML5**, **CSS3**, and **Font Awesome**, this project showcases pr
 
 ## 🌐 Live Demo (Vercel)
 
-👉 [View Live on Vercel](https://tutor-website.vercel.app/)  
-*(The link will work after deployment on your Vercel account)*
+👉 [View Live on Vercel](https://tutor-website-five-zeta.vercel.app/)  
 
 ---
 
@@ -84,10 +83,7 @@ Tutor-Website/
 ---
 
 ## 📸 Preview
-
-```
 ![Tutor Landing Page Screenshot](./images/Tutor-homepage.PNG)
-```
 
 ---
 
